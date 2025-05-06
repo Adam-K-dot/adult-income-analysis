@@ -16,3 +16,16 @@ Gender
 Race
 
 Income bracket (<=50K, >50K)
+How does the age distribution differ between income groups?
+
+What percentage of each education level earns over $50K?
+
+Which occupations have the highest proportion of >$50K earners?
+
+Do people who work more hours per week tend to earn more?
+
+Is there a gender-based pay gap?
+
+Which marital status category has the highest rate of >$50K earners?
+
+How does race correlate with higher income levels?
